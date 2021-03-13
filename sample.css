@@ -1,5 +1,5 @@
 .red{/*赤色に変更してください*/
-	color:red;
+	
 }
 .blue{/*青色に変更してください*/
 	
@@ -12,15 +12,14 @@
 
 }
 .purple{/*紫色に変更してください*/
-	color:purple;
+	
 }
 .gray{/*グレーに変更してください*/
-    	color:gray;
+    	
 }
 .bold{/*太字に変更してください*/
-	font-weight:bold;
+	
 }
 .container{
-    text-align: center;
-    line-height: 5em;
+  
 }
