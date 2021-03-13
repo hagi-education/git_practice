@@ -1,18 +1,25 @@
-.red{
+.red{/*赤色に変更してください*/
  
 }
-.blue{
+.blue{/*青色に変更してください*/
  
 }
-.green{
+.green{/*緑色に変更してください*/
  
 }
-.yellow{
+.yellow{/*黄色に変更してください*/
 
 }
-.purple{
+.purple{/*紫色に変更してください*/
 
 }
-.gray{
+.gray{/*グレーに変更してください*/
     
+}
+.bold{/*太字に変更してください*/
+
+}
+.container{
+    text-align: center;
+    line-height: 5em;
 }
