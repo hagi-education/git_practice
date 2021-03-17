@@ -1,9 +1,7 @@
 .red{/*赤色に変更してください*/
 	
 }
-.blue{/*青色に変更してください*/
-	
-	
+.blue{/*青色に変更してください*/	
  
 }
 .green{/*緑色に変更してください*/
@@ -19,7 +17,7 @@
 	    	
 }
 .bold{/*太字に変更してください*/
-	
+	font-weight:bold;
 }
 .container{
     text-align: center;
