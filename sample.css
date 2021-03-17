@@ -17,7 +17,7 @@
 	    	
 }
 .bold{/*太字に変更してください*/
-	
+	font-weight:bold;
 }
 .container{
     text-align: center;
