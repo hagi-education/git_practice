@@ -5,7 +5,7 @@
  
 }
 .green{/*緑色に変更してください*/
- 
+  color:green;
 }
 .yellow{/*黄色に変更してください*/
 
@@ -22,4 +22,5 @@
 .container{
     text-align: center;
     line-height: 5em;     
+
 }
